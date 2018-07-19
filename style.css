@@ -11,7 +11,7 @@ nav {
 figcaption {
   font-size: small
 }
-p#featured-property {
+#featured-property > p {
   width: 800px
 }
 
