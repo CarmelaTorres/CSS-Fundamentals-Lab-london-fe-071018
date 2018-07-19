@@ -16,7 +16,7 @@ figcaption {
   text-align: center
 }
 #details {
-  display: block;
+  display: inline-block;
   float: left
   }
 h3 {
