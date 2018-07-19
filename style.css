@@ -19,4 +19,8 @@ figcaption {
   display: block;
   float: left
   }
-
+h3 {
+  background-color: red;
+  text-align: center;
+  
+}
