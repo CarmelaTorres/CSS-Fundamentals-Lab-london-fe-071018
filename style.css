@@ -16,8 +16,7 @@ figcaption {
   text-align: center
 }
 #details {
-  display: block;
-  float: left
+    float: left
   }
 h3 {
   background-color: red;
